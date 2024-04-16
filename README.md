@@ -27,7 +27,7 @@ while True:
    c.close()
    break
 ```
-##SERVER
+## SERVER
 ```
 import socket
 s=socket.socket()

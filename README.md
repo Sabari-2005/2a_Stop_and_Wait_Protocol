@@ -38,9 +38,9 @@ while True:
 ```
 
 ## OUTPUT
-##CLIENT
+## CLIENT
 ![image](https://github.com/Sabari-2005/2a_Stop_and_Wait_Protocol/assets/139338709/f640359e-a59b-475c-a710-40e4a3e18a17)
-##SERVER
+## SERVER
 ![image](https://github.com/Sabari-2005/2a_Stop_and_Wait_Protocol/assets/139338709/b29cf3e4-bbf9-48d3-9c90-c82f121df886)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.

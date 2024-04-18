@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+Name:R.Sabarinath
+Register No:212223100048
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
